@@ -1,6 +1,8 @@
 # flutter_sqflite
 
 A new Flutter project.
+![thumbnail](https://user-images.githubusercontent.com/107117774/189572394-be61b32a-c411-4fcb-88d4-80e8f2ff49a1.png)
+
 
 ## Getting Started
 
